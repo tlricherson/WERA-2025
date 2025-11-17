@@ -10,6 +10,9 @@ We will also consider the rise of feminist data visualization and representation
 conversations in this area.
 
 Use the links below or in the list above to navigate to resources specific to each section of the presentation.
+* [1-What is a data story?](https://github.com/tlricherson/WERA-2025/blob/main/1-Characteristics.md)
+* [2-How do we best communicate with data?](https://github.com/tlricherson/WERA-2025/blob/main/2-Data_Conventions)
+* [3-How do we create more inclusive and intersectional data stories?](https://github.com/tlricherson/WERA-2025/blob/main/3-Inclusive_and_Intersectional.md)
 
 
 ## Contact ##
