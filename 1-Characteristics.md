@@ -1,12 +1,8 @@
 # What is a data story? #
 
-What is a "data story"? How is one different from a text-based narrative? Why and when should we lean into these?
+What is a *data story*? How is one different from a text-based narrative? Why and when should we lean into these?
 
-Data walls and data binders are two of the most common types of semi-public data displays. There are entire district cultures devoted to using these, as well as a network of resources through the sharing economy of social media and sites such as Teacher Pay Teachers.
-
-Some classroom teachers take this a step further and have students track and use their own data. There are references to this in our instructional frameworks; however, the effectiveness of student-involved data use is a relatively recent of educational research. 
-
-Can a traditional data wall also be a data story? It's possible, but many do not take this path. What is the difference...and why should we care?
+Data walls and data binders are two of the most common types of semi-public data displays. There are entire district cultures devoted to using these, as well as a network of resources through the sharing economy of social media and sites such as Teacher Pay Teachers. Some classroom teachers take this a step further and have students track and use their own data. There are references to this in our instructional frameworks; however, the effectiveness of student-involved data use is a relatively recent of educational research. Can a traditional data wall also be a data story? It's possible, but many do not take this path. What is the difference...and why should we care?
 
 ### Examples ###
 Data stories can take many formats. Here are some online examples that may encourage you to think about presenting data differently.
@@ -15,11 +11,11 @@ Data stories can take many formats. Here are some online examples that may encou
 * [Kim Rees](https://en.wikipedia.org/wiki/Kim_Rees) at Periscopic led this project on visualizing [gun deaths in terms of the number of years of lives stolen](http://guns.periscopic.com/).
 * Visit [Rock 'n Poll](http://rocknpoll.graphics/) to learn more about why polling results should be taken with a grain of salt.
 * Stories can take many formats. Have you ever tried to imagine how a fish soup tastes whose recipe is based on publicly available local fishing data? Or what a pizza would be like if it was based on Helsinki’s population mix? [Data Cuisine](http://data-cuisine.net/), led by [Moritz Stefaner](moritzstefaner.bsky.social), explores food as a means of data expression - or, if you like – edible diagrams.
-* [Jon Schwabish](policyviz@bsky.social) has posted a [collection of blog posts, books, and other resources](https://policyviz.com/2017/03/24/more-story-references-and-resources/) on storytelling with data.
+* [Jon Schwabish](bsky.app/profile/policyviz) has posted a [collection of blog posts, books, and other resources](https://policyviz.com/2017/03/24/more-story-references-and-resources/) on storytelling with data.
 * Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://giorgialupi.com/) and [Stefanie Posavec](https://www.stefanieposavec.com/), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
 * Visit the Pinterest site of [Lynn Cherny](https://www.pinterest.com/arnicas/) for tagged collections of charts (good, bad, and ugly), design items, and more.
 * [Mona Chalabi](https://monachalabi.com/) has an [Instagram](https://www.instagram.com/monachalabi/) feed of her hand drawn charts on a variety of topics. Also, have a look the work of [Catherine Madden](https://catherinemadden.com/home) who integrates data, design, and drawing. Michelle Rial posts [real life charts](https://www.instagram.com/realifecharts/) over on Instagram and two students share their ideas over at [Our Paper Data](https://ourpaperdata.wordpress.com/). For a more local flavour, scan the [Seattle Walk Report](https://www.instagram.com/seattlewalkreport/).
-* If you have 20 minutes, I highly recommend this TED talk by Elizabeth Gilbert on [your elusive creative genius](https://www.ted.com/talks/elizabeth_gilbert_on_genius)...and if you don't have 20 minutes, [read the transcript](https://www.ted.com/talks/elizabeth_gilbert_on_genius/transcript). This is a fabulous summary about *The Muse*. If you're a leader, you may also want to read about how to support better outcomes by [avoiding arbitrary deadlines](https://work.qz.com/1173131/deadlines-dont-have-to-kill-creativity-according-to-harvard-research/). 
+
 
 ## Additional literature ##
 Boy, J., Detienne, F., & Fekete, J. D. (2015, April). [Storytelling in information visualizations: Does it engage users to explore data?](http://www.cs.tufts.edu/comp/250VIS/papers/CHI2015-Storytelling.pdf). In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 1449-1458). ACM.
