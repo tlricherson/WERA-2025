@@ -1,3 +1,5 @@
+# What is a data story? #
+
 What is a "data story"? How is one different from a text-based narrative? Why and when should we lean into these?
 
 Data walls and data binders are two of the most common types of semi-public data displays. There are entire district cultures devoted to using these, as well as a network of resources through the sharing economy of social media and sites such as Teacher Pay Teachers.
