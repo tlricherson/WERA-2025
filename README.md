@@ -1,6 +1,6 @@
 # WERA-2025
 ## Use Data to Tell Your Story ## 
-Washington Educational Research Association (WERA) Conference, December 11, 2025
+Washington Educational Research Association (WERA) Conference | December 11, 2025
 
 How can educators use the data they collect to create visuals that communicate information and
 improve student outcomes? There are powerful stories inside every data set, yet most meaning is never extracted
