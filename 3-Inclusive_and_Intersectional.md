@@ -5,7 +5,7 @@ To tell a data story, one must have access to the data, tools, and skills necess
 How do we increase equity with our data conversations? What are our powers and responsibilities to make that happen?
 
 ## Questions and predictions ##
-Students in Civic Art & Design Studio (IN123), with professor [Catherine DʼIgnazio](http://www.kanarinka.com/), visualized 100 of the more than 6,000 citizen questions collected by the City of Boston as part of the GoBoston 2030 transportation planning process. [This video](https://www.youtube.com/watch?v=G3Q70ppWVSk) is realized as a large, projected public art installation. Are you interested in making your own gifs? There are lots of great resources on the web. Check out the [repo on making data-related animated gifs](https://github.com/lenagroeger/gifs) from [Lena Groeger](lenagroeger.bsky.social) of ProPublica.
+Students in Civic Art & Design Studio (IN123), with professor [Catherine DʼIgnazio](http://www.kanarinka.com/), visualized 100 of the more than 6,000 citizen questions collected by the City of Boston as part of the GoBoston 2030 transportation planning process. [This video](https://www.youtube.com/watch?v=G3Q70ppWVSk) is realized as a large, projected public art installation. Are you interested in making your own gifs? There are lots of great resources on the web. Check out the [repo on making data-related animated gifs](https://github.com/lenagroeger/gifs) from [Lena Groeger](https://bsky.app/profile/lenagroeger.bsky.social) of ProPublica.
 
 [The Quantified Selfie](http://quantifiedselfie.us/) publishes stories that explore "identity through data." What does our inbox, our music choices, or our online community say about us? Trina Chiasson spoke about a related topic in this 2016 Tapestry short story, [The Rise of the Data Selfie](https://www.youtube.com/watch?v=sK4RDO3wPCg). You may also be interested in her [Data + Design](https://trinachi.github.io/data-design-builds/titlepage01.html) resources
 
@@ -22,16 +22,16 @@ All work with data---from the labels we choose to the charts we design---has pot
 
 
 ## Ethics ##
-[Lena Groeger](https://bsky.app/profile/lenagroeger.bsky.socialr) of ProPublica reminds us that "The data doesn't speak for itself---it echoes its collectors." Watch her 2017 Tapestry presentation on [When the storyteller shows up in the story](https://youtu.be/TvJYDz8849g) to think more about how various biases show up in the visuals we produce.
+[Lena Groeger](https://bsky.app/profile/lenagroeger.bsky.social) of ProPublica reminds us that "The data doesn't speak for itself---it echoes its collectors." Watch her 2017 Tapestry presentation on [When the storyteller shows up in the story](https://youtu.be/TvJYDz8849g) to think more about how various biases show up in the visuals we produce.
 
 Learn more about [responsible data use](https://blogs.microsoft.com/newyork//2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/), including the series of [forums](https://responsibledata.io/) where various [handbooks](https://responsibledata.io/resources/handbook/) have been developed to support this work on a larger scale.
 
 What do we do about missing data...and why is it missing in the first place? 
-* [Mimi Onuoha](https://twitter.com/thistimeitsmimi) has started a repo to [explore this topic](https://github.com/MimiOnuoha/missing-datasets). 
-* At the 2016 Tapestry Conference, [Eva Galanes-Rosenbaum](https://twitter.com/NotoriousEGR) shared that [the plural of anecdote is not "data"...except when it is](http://www.tapestryconference.com/blog/2016/plural-anecdote-not-data%E2%80%94except-when-it) as a way to show how we can mitigate the effects of missing data. 
+* [Mimi Onuoha](https://mimionuoha.com/) has started a repo to [explore this topic](https://github.com/MimiOnuoha/missing-datasets). 
+* At the 2016 Tapestry Conference, Eva Galanes-Rosenbaum shared that [the plural of anecdote is not "data"...except when it is](http://www.tapestryconference.com/blog/2016/plural-anecdote-not-data%E2%80%94except-when-it) as a way to show how we can mitigate the effects of missing data. 
 * You may also be interested in this recent post on [four methods to deal with missing data](https://blog.socialcops.com/academy/resources/4-methods-missing-data/). 
 * Nathan Yau has also written about strategies to use when [visualizing incomplete or missing data sets](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/).
-* More importantly, what are we saying when our choice is not to include particular data? Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/176869833), from [Josh Begley](https://twitter.com/joshbegley) to learn more.
+* More importantly, what are we saying when our choice is not to include particular data? Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/176869833), from [Josh Begley](https://joshbegley.com/) to learn more.
 
 ## Connect ##
 Want to see the work of others? Check out the [Data Murals](https://datatherapy.org/data-mural-gallery/) project led by MIT. You can explore the tools and activities used to develop these murals over at [Data Culture](https://databasic.io/en/culture/).
