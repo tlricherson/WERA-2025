@@ -18,11 +18,11 @@ We can use our stories to [recover unusual histories](https://vimeo.com/17904081
 
 All work with data---from the labels we choose to the charts we design---has potential inequitable impacts. Lena Groeger writes about some of these in [Forms Matter](https://source.opennews.org/articles/forms-matter/): how the design of forms can decide an election, affect racial profiling & shape identity.
 
-[Lauren Klein](laurenfklein.bsky.social) has written about [visualization as argument](http://lklein.com/2014/12/visualization-as-argument/). You may also be interested in her presentation on [feminist data visualization](http://www.northeastern.edu/nulab/lauren-klein-feminist-data-visualization/) or view [all of her projects](http://dhlab.lmc.gatech.edu/projects/).
+[Lauren Klein](https://bsky.app/profile/laurenfklein.bsky.social) has written about [visualization as argument](http://lklein.com/2014/12/visualization-as-argument/). You may also be interested in her presentation on [feminist data visualization](http://www.northeastern.edu/nulab/lauren-klein-feminist-data-visualization/) or view [all of her projects](http://dhlab.lmc.gatech.edu/projects/).
 
 
 ## Ethics ##
-[Lena Groeger](https://twitter.com/lenagroeger) of ProPublica reminds us that "The data doesn't speak for itself---it echoes its collectors." Watch her 2017 Tapestry presentation on [When the storyteller shows up in the story](https://youtu.be/TvJYDz8849g) to think more about how various biases show up in the visuals we produce.
+[Lena Groeger](https://bsky.app/profile/lenagroeger.bsky.socialr) of ProPublica reminds us that "The data doesn't speak for itself---it echoes its collectors." Watch her 2017 Tapestry presentation on [When the storyteller shows up in the story](https://youtu.be/TvJYDz8849g) to think more about how various biases show up in the visuals we produce.
 
 Learn more about [responsible data use](https://blogs.microsoft.com/newyork//2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/), including the series of [forums](https://responsibledata.io/) where various [handbooks](https://responsibledata.io/resources/handbook/) have been developed to support this work on a larger scale.
 
