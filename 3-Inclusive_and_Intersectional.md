@@ -18,9 +18,8 @@ We can use our stories to [recover unusual histories](https://vimeo.com/17904081
 
 All work with data---from the labels we choose to the charts we design---has potential inequitable impacts. Lena Groeger writes about some of these in [Forms Matter](https://source.opennews.org/articles/forms-matter/): how the design of forms can decide an election, affect racial profiling & shape identity.
 
-[Lauren Klein](https://twitter.com/laurenfklein) has written about [visualization as argument](http://lklein.com/2014/12/visualization-as-argument/). You may also be interested in her presentation on [feminist data visualization](http://www.northeastern.edu/nulab/lauren-klein-feminist-data-visualization/) or view [all of her projects](http://dhlab.lmc.gatech.edu/projects/).
+[Lauren Klein](laurenfklein.bsky.social) has written about [visualization as argument](http://lklein.com/2014/12/visualization-as-argument/). You may also be interested in her presentation on [feminist data visualization](http://www.northeastern.edu/nulab/lauren-klein-feminist-data-visualization/) or view [all of her projects](http://dhlab.lmc.gatech.edu/projects/).
 
-From 2009, a [paper-based visualization competition](http://infosthetics.com/archives/2009/02/paper-based_visualization_competition_the_winner_and_more.html). How can we make data more experiential?
 
 ## Ethics ##
 [Lena Groeger](https://twitter.com/lenagroeger) of ProPublica reminds us that "The data doesn't speak for itself---it echoes its collectors." Watch her 2017 Tapestry presentation on [When the storyteller shows up in the story](https://youtu.be/TvJYDz8849g) to think more about how various biases show up in the visuals we produce.
