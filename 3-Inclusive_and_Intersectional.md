@@ -6,7 +6,7 @@ How do we increase equity with our data conversations? What are our powers and r
 
 
 ## Equity ##
-How do we develop more pluralistic data designs---ones which are inclusive of ideas from the full spectrum of genders, races, and cultures? What is the history of this work? Check out how [W.E.B. DuBois represented African-American life in 1900](http://publicdomainreview.org/collections/w-e-b-du-bois-hand-drawn-infographics-of-african-american-life-1900/), [Florence Nightingale](https://www.sciencenews.org/article/florence-nightingale-passionate-statistician), or the work of [Elizabeth Peabody](http://lklein.com/2014/12/visualization-as-argument/) shared by Lauren Klein.
+How do we develop more pluralistic data designs---ones which are inclusive of ideas from the full spectrum of genders, races, and cultures? What is the history of this work? Check out how [W.E.B. DuBois represented African-American life in 1900](http://publicdomainreview.org/collections/w-e-b-du-bois-hand-drawn-infographics-of-african-american-life-1900/), [Florence Nightingale](https://www.sciencenews.org/article/florence-nightingale-passionate-statistician), or the [Graphic Visionaries](https://visionarypress.com/) painstakingly researched and presented by [RJ Andrews](https://infowetrust.com/).
 
 We can use our stories to [recover unusual histories](https://vimeo.com/179040817). At the 2016 Eyeo conference, Sara Hendren talks about "design for Know-Nothings, Dilettantes, and Melancholy Interlopers – Translators, impresarios, believers, and the heartbroken—this is a talk about design outside of authorship and ownership, IP or copyright, and even outside of research and collaboration. When and where do ideas come to life? What counts as design?"
 
@@ -19,7 +19,7 @@ What are some **tools** we might use to represent intersectional data? Alex Solo
 
 
 ## Ethics ##
-[Responsible Data](https://responsibledata.io/) "is a concept outlining our collective duty to prioritise and respond to the ethical, legal, social and privacy-related challenges that come from using data in new and different ways in advocacy and social change. You may want to check out the [forums](https://responsibledata.io/) where various [handbooks](https://responsibledata.io/resources/handbook/) have been developed to support this work on a larger scale.
+[Responsible Data](https://responsibledata.io/) "is a concept outlining our collective duty to prioritise and respond to the ethical, legal, social and privacy-related challenges that come from using data in new and different ways in advocacy and social change. You may want to check out the [resources]([https://responsibledata.io/](https://responsibledata.io/category/resources/) or the [handbook](https://responsibledata.io/resources/handbook/) that has been developed to support this work on a larger scale.
 
 [Lena Groeger](https://bsky.app/profile/lenagroeger.bsky.social) of ProPublica reminds us that "The data doesn't speak for itself---it echoes its collectors." Watch her 2017 Tapestry presentation on [When the storyteller shows up in the story](https://youtu.be/TvJYDz8849g) to think more about how various biases show up in the visuals we produce.
 
@@ -27,7 +27,6 @@ Learn more about [responsible data use](https://blogs.microsoft.com/newyork//201
 
 What do we do about missing data...and why is it missing in the first place? 
 * [Mimi Onuoha](https://mimionuoha.com/) has started a repo to [explore this topic](https://github.com/MimiOnuoha/missing-datasets). 
-* At the 2016 Tapestry Conference, Eva Galanes-Rosenbaum shared that [the plural of anecdote is not "data"...except when it is](http://www.tapestryconference.com/blog/2016/plural-anecdote-not-data%E2%80%94except-when-it) as a way to show how we can mitigate the effects of missing data. 
 * You may also be interested in this recent post on [four methods to deal with missing data](https://blog.socialcops.com/academy/resources/4-methods-missing-data/). 
 * Nathan Yau has also written about strategies to use when [visualizing incomplete or missing data sets](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/).
 * More importantly, what are we saying when our choice is not to include particular data? Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/176869833), from [Josh Begley](https://joshbegley.com/) to learn more.
