@@ -16,6 +16,8 @@ All work with data---from the labels we choose to the charts we design---has pot
 
 What are some **tools** we might use to represent intersectional data? Alex Solokov explores some ideas in Beyond the binary: [Improving data visualization for intersectional identities](https://nightingaledvs.com/beyond-the-binary/).
 
+* Check out [Citizen Sensing: A Toolkit](https://making-sense.eu/wp-content/uploads/2018/01/Citizen-Sensing-A-Toolkit.pdf) from Making Sense. "Citizen sensing is often inspired by concern over a critical problem. The first step is to identify the concerns of those in the community and develop an understanding of the issue. This is a collaborative process that informs and guides community action, and helps build a shared position around an issue." You may also be interested in their report on [Co-Desgining Participatory Approaches for Communities](http://publications.jrc.ec.europa.eu/repository/bitstream/JRC110752/jrc110752_makingsense_d42_co-designingparticipatoryapproachesforcommunities.pdf).
+
 
 
 ## Ethics ##
@@ -30,6 +32,8 @@ What do we do about missing data...and why is it missing in the first place?
 * You may also be interested in this recent post on [four methods to deal with missing data](https://blog.socialcops.com/academy/resources/4-methods-missing-data/). 
 * Nathan Yau has also written about strategies to use when [visualizing incomplete or missing data sets](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/).
 * More importantly, what are we saying when our choice is not to include particular data? Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/176869833), from [Josh Begley](https://joshbegley.com/) to learn more.
+
+* Visualising Information for Advocacy is a [book about how advocates and activists use visual elements in their campaigns](https://visualisingadvocacy.org/). This 160-page guide features nearly 50 case studies from around the world to provide an introduction to understanding visual information and a framework for using images for influence.
 
 
 ## Literature review ##
