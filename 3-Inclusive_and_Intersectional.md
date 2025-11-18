@@ -41,12 +41,18 @@ Bardzell, S. (2010, April). [Feminist HCI: taking stock and outlining an agenda 
 
 Bardzell, S., & Bardzell, J. (2011, May). [Towards a feminist HCI methodology: social science, feminism, and HCI](https://s3.amazonaws.com/academia.edu.documents/31454793/CHI11_FeministMethods_CAMERAREADY.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1509729799&Signature=F%2FZtRGJZPQbw72M2nE5olD7FFhI%3D&response-content-disposition=inline%3B%20filename%3DTowards_a_feminist_HCI_methodology_socia.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 675-684). ACM.
 
+Bauer, G. R., Churchill, S. M., Mahendran, M., Walwyn, C., Lizotte, D., & Villa-Rueda, A. A. (2021). [Intersectionality in quantitative research: A systematic review of its emergence and applications of theory and methods](https://www.sciencedirect.com/science/article/pii/S2352827321000732). SSM - Population Health, 14(1), 100–798. https://doi.org/10.1016/j.ssmph.2021.100798
+
 D’Ignazio, C., & Klein, L. F. (2016). [Feminist data visualization](http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf). In Workshop on Visualization for the Digital Humanities (VIS4DH), Baltimore. IEEE.
+
+Dencik, L., Hintz, A., Redden, J., & Treré, E. (2022). [Data justice](https://us.sagepub.com/en-us/nam/data-justice/book271599). London, UK: SAGE. 
 
 Drucker, J. (2011). [Humanities approaches to graphical display](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html). Digital Humanities Quarterly, 5(1), 1-21.
 
 Feinberg, M. (2017). [A design perspective on data](https://ils.unc.edu/~mfeinber/Feinberg%202017c.pdf). Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, 2952-2963.
 
 Kim, Y. S., Reinecke, K., & Hullman, J. (2017). [Data through others' eyes: The impact of visualizing others' expectations on visualization interpretation](http://faculty.washington.edu/jhullman/VIS17_Expectations_SocialVis.pdf). IEEE Transactions on Visualization and Computer Graphics.
+
+Rouhani, S. (2014). [Intersectionality-informed quantitative research: A primer](https://fe1706df-7967-4295-938d-8adddba3b743.filesusr.com/ugd/b1038b_74cb175c081643a9a7fb5419d916838a.pdf). Vancouver, BC: IIRP, SFU.
 
 Turkle, S., & Papert, S. (1992). [Epistemological pluralism and the revaluation of the concrete](http://web.mit.edu/sturkle/www/pdfsforstwebpage/ST_Epistemo%20Pluralism.pdf). Journal of Mathematical Behavior, 11(1), 3-33.
