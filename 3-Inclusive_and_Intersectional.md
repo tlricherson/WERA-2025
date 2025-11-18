@@ -17,10 +17,13 @@ All work with data---from the labels we choose to the charts we design---has pot
 What are some **tools** we might use to represent intersectional data? Alex Solokov explores some ideas in Beyond the binary: [Improving data visualization for intersectional identities](https://nightingaledvs.com/beyond-the-binary/).
 
 
+
 ## Ethics ##
+[Responsible Data](https://responsibledata.io/) "is a concept outlining our collective duty to prioritise and respond to the ethical, legal, social and privacy-related challenges that come from using data in new and different ways in advocacy and social change. You may want to check out the [forums](https://responsibledata.io/) where various [handbooks](https://responsibledata.io/resources/handbook/) have been developed to support this work on a larger scale.
+
 [Lena Groeger](https://bsky.app/profile/lenagroeger.bsky.social) of ProPublica reminds us that "The data doesn't speak for itself---it echoes its collectors." Watch her 2017 Tapestry presentation on [When the storyteller shows up in the story](https://youtu.be/TvJYDz8849g) to think more about how various biases show up in the visuals we produce.
 
-Learn more about [responsible data use](https://blogs.microsoft.com/newyork//2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/), including the series of [forums](https://responsibledata.io/) where various [handbooks](https://responsibledata.io/resources/handbook/) have been developed to support this work on a larger scale.
+Learn more about [responsible data use](https://blogs.microsoft.com/newyork//2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/) from Microsoft. (Yes...I know...)
 
 What do we do about missing data...and why is it missing in the first place? 
 * [Mimi Onuoha](https://mimionuoha.com/) has started a repo to [explore this topic](https://github.com/MimiOnuoha/missing-datasets). 
