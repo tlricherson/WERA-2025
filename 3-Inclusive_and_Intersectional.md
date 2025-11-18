@@ -4,12 +4,6 @@ To tell a data story, one must have access to the data, tools, and skills necess
 
 How do we increase equity with our data conversations? What are our powers and responsibilities to make that happen?
 
-## Questions and predictions ##
-Students in Civic Art & Design Studio (IN123), with professor [Catherine DʼIgnazio](http://www.kanarinka.com/), visualized 100 of the more than 6,000 citizen questions collected by the City of Boston as part of the GoBoston 2030 transportation planning process. [This video](https://www.youtube.com/watch?v=G3Q70ppWVSk) is realized as a large, projected public art installation. Are you interested in making your own gifs? There are lots of great resources on the web. Check out the [repo on making data-related animated gifs](https://github.com/lenagroeger/gifs) from [Lena Groeger](https://bsky.app/profile/lenagroeger.bsky.social) of ProPublica.
-
-[The Quantified Selfie](http://quantifiedselfie.us/) publishes stories that explore "identity through data." What does our inbox, our music choices, or our online community say about us? Trina Chiasson spoke about a related topic in this 2016 Tapestry short story, [The Rise of the Data Selfie](https://www.youtube.com/watch?v=sK4RDO3wPCg). You may also be interested in her [Data + Design](https://trinachi.github.io/data-design-builds/titlepage01.html) resources
-
-Andy Kirk looks at [the success of "participative" visualizations](http://www.visualisingdata.com/2014/02/the-success-of-participative-visualisations/). Lots of great links here to online data stories that engage in audience to find themselves in the data.
 
 ## Equity ##
 How do we develop more pluralistic data designs---ones which are inclusive of ideas from the full spectrum of genders, races, and cultures? What is the history of this work? Check out how [W.E.B. DuBois represented African-American life in 1900](http://publicdomainreview.org/collections/w-e-b-du-bois-hand-drawn-infographics-of-african-american-life-1900/), [Florence Nightingale](https://www.sciencenews.org/article/florence-nightingale-passionate-statistician), or the work of [Elizabeth Peabody](http://lklein.com/2014/12/visualization-as-argument/) shared by Lauren Klein.
@@ -19,6 +13,8 @@ We can use our stories to [recover unusual histories](https://vimeo.com/17904081
 All work with data---from the labels we choose to the charts we design---has potential inequitable impacts. Lena Groeger writes about some of these in [Forms Matter](https://source.opennews.org/articles/forms-matter/): how the design of forms can decide an election, affect racial profiling & shape identity. I also encourage you to visit the [Data Justice Lab](https://datajusticelab.org/) which "examines the intricate relationship between datafication and social justice, highlighting the politics and impacts of data-driven processes and big data."
 
 [Lauren Klein](https://bsky.app/profile/laurenfklein.bsky.social) has written about [visualization as argument](http://lklein.com/2014/12/visualization-as-argument/). You may also be interested in her presentation on [feminist data visualization](http://www.northeastern.edu/nulab/lauren-klein-feminist-data-visualization/) or view [all of her projects](http://dhlab.lmc.gatech.edu/projects/).
+
+What are some **tools** we might use to represent intersectional data? Alex Solokov explores some ideas in Beyond the binary: [Improving data visualization for intersectional identities](https://nightingaledvs.com/beyond-the-binary/).
 
 
 ## Ethics ##
@@ -33,8 +29,6 @@ What do we do about missing data...and why is it missing in the first place?
 * Nathan Yau has also written about strategies to use when [visualizing incomplete or missing data sets](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/).
 * More importantly, what are we saying when our choice is not to include particular data? Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/176869833), from [Josh Begley](https://joshbegley.com/) to learn more.
 
-## Connect ##
-Want to see the work of others? Check out the [Data Murals](https://datatherapy.org/data-mural-gallery/) project led by MIT. You can explore the tools and activities used to develop these murals over at [Data Culture](https://databasic.io/en/culture/).
 
 ## Literature review ##
 Bardzell, S. (2010, April). [Feminist HCI: taking stock and outlining an agenda for design](https://pdfs.semanticscholar.org/61f2/408e1b510e5b10617abf947adfb5a35e8646.pdf). In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 1301-1310). ACM.
