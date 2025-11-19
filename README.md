@@ -14,6 +14,8 @@ Use the links below or in the list above to navigate to resources specific to ea
 * [2-How do we best communicate with data?](https://github.com/tlricherson/WERA-2025/blob/main/2-Data_Conventions)
 * [3-How do we create more inclusive and intersectional data stories?](https://github.com/tlricherson/WERA-2025/blob/main/3-Inclusive_and_Intersectional.md)
 
+Presentation (Coming soon!)
+
 
 ## Contact ##
 Tara Richerson | tara.richerson@gmail.com
