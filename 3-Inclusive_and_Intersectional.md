@@ -29,7 +29,7 @@ Learn more about [responsible data use](https://blogs.microsoft.com/newyork//201
 
 What do we do about missing data...and why is it missing in the first place? 
 * [Mimi Onuoha](https://mimionuoha.com/) has started a repo to [explore this topic](https://github.com/MimiOnuoha/missing-datasets). 
-* You may also be interested in this recent post on [four methods to deal with missing data](https://blog.socialcops.com/academy/resources/4-methods-missing-data/). 
+* You may also be interested in this post from Prukalpa Sankar that shares [four methods to deal with missing data](https://blog.socialcops.com/academy/resources/4-methods-missing-data/). 
 * Nathan Yau has also written about strategies to use when [visualizing incomplete or missing data sets](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/).
 * More importantly, what are we saying when our choice is not to include particular data? Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/176869833), from [Josh Begley](https://joshbegley.com/) to learn more.
 
