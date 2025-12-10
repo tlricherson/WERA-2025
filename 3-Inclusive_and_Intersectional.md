@@ -21,7 +21,7 @@ What are some **tools** we might use to represent intersectional data? Alex Solo
 
 
 ## Ethics ##
-[Responsible Data](https://responsibledata.io/) "is a concept outlining our collective duty to prioritise and respond to the ethical, legal, social and privacy-related challenges that come from using data in new and different ways in advocacy and social change. You may want to check out the [resources]([https://responsibledata.io/](https://responsibledata.io/category/resources/) or the [handbook](https://responsibledata.io/resources/handbook/) that has been developed to support this work on a larger scale.
+[Responsible Data](https://responsibledata.io/) "is a concept outlining our collective duty to prioritise and respond to the ethical, legal, social and privacy-related challenges that come from using data in new and different ways in advocacy and social change. You may want to check out the [resources](https://responsibledata.io/category/resources/) or the [handbook](https://responsibledata.io/resources/handbook/) that has been developed to support this work on a larger scale.
 
 [Lena Groeger](https://bsky.app/profile/lenagroeger.bsky.social) of ProPublica reminds us that "The data doesn't speak for itself---it echoes its collectors." Watch her 2017 Tapestry presentation on [When the storyteller shows up in the story](https://youtu.be/TvJYDz8849g) to think more about how various biases show up in the visuals we produce.
 
