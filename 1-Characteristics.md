@@ -15,6 +15,7 @@ Data stories can take many formats. Here are some online examples that may encou
 * Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://giorgialupi.com/) and [Stefanie Posavec](https://www.stefanieposavec.com/), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
 * Visit the Pinterest site of [Lynn Cherny](https://www.pinterest.com/arnicas/) for tagged collections of charts (good, bad, and ugly), design items, and more.
 * [Mona Chalabi](https://monachalabi.com/) has an [Instagram](https://www.instagram.com/monachalabi/) feed of her hand drawn charts on a variety of topics. Also, have a look the work of [Catherine Madden](https://catherinemadden.com/home) who integrates data, design, and drawing. Michelle Rial posts [real life charts](https://www.instagram.com/realifecharts/) over on Instagram and two students share their ideas over at [Our Paper Data](https://ourpaperdata.wordpress.com/). For a more local flavour, scan the [Seattle Walk Report](https://www.instagram.com/seattlewalkreport/).
+* Interested in the [history of data visualization](https://friendly.github.io/HistDataVis/ch05-playfair.html), including charts from William Playfair? Head on over this repo to learn more.
 
 
 ## Additional literature ##
