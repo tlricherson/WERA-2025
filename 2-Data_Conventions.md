@@ -14,7 +14,9 @@ The resources listed below can provide some guidance when selecting a chart and 
 
 It may also be helpful to read about [what questions to ask when creating charts](https://blog.datawrapper.de/better-charts/).
 
-## Reminders ##
+## Resources ##
+Learn more about [pre-attentive attributes](https://www.perceptualedge.com/articles/ie/visual_perception.pdf) and their use in this article from Stephen Few.
+
 The same data set can look very different depending upon which chart you choose. Visit [visualizing distributions](https://darkhorsevisualization.com/blog/visualizing-distributions-3) for some examples, but there is additional background on how the [same stats can lead to different graphs](https://www.research.autodesk.com/publications/same-stats-different-graphs/). 
 
 Color can be very tricky. This is a complex topic that we could spend an entire session on. There are some [resources on Pinboard](https://pinboard.in/u:tlricherson/t:color), including palettes, tools for evaluating your designs for people with vision issues, and best practices from the research.
