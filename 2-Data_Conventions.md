@@ -10,7 +10,7 @@ The resources listed below can provide some guidance when selecting a chart and 
 * There are any number of collections of data viz options. For chart ideas, take a look at the [Data Viz Project](http://datavizproject.com), [The Chartmaker Directory](http://chartmaker.visualisingdata.com/), or [The Data Visualization Catalogue](http://www.datavizcatalogue.com/).
 * [Qualitative Chart Chooser](http://stephanieevergreen.com/wp-content/uploads/2016/11/Qualitative-Chooser-2.0.pdf) by Stephanie Evergreen
 * [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
-* [The Data Visualization Checklist](https://stephanieevergreen.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
+* [The Data Visualization Checklist](https://stephanieevergreen.com/wp-content/uploads/2024/08/Data-Viz-Checklist-2024.pdf) by Ann K. Emery and Stephanie Evergreen. There is even a [live version](https://www.datavisualizationchecklist.com/) where you can upload your chart and review it.
 
 It may also be helpful to read about [what questions to ask when creating charts](https://blog.datawrapper.de/better-charts/).
 
