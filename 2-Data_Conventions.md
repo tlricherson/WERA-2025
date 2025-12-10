@@ -14,6 +14,8 @@ The resources listed below can provide some guidance when selecting a chart and 
 
 It may also be helpful to read about [what questions to ask when creating charts](https://blog.datawrapper.de/better-charts/).
 
+You can use a tool like [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/) to review your charts for accessibility for those who have color vision deficiency.
+
 ## Resources ##
 Learn more about [pre-attentive attributes](https://www.perceptualedge.com/articles/ie/visual_perception.pdf) and their use in this article from Stephen Few.
 
