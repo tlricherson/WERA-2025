@@ -9,14 +9,13 @@ The resources listed below can provide some guidance when selecting a chart and 
 
 * There are any number of collections of data viz options. For chart ideas, take a look at the [Data Viz Project](http://datavizproject.com), [The Chartmaker Directory](http://chartmaker.visualisingdata.com/), or [The Data Visualization Catalogue](http://www.datavizcatalogue.com/).
 * [Qualitative Chart Chooser](http://stephanieevergreen.com/wp-content/uploads/2016/11/Qualitative-Chooser-2.0.pdf) by Stephanie Evergreen
-* [Chart Suggestions: A Thought Starter](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela
 * [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
-* [The Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
+* [The Data Visualization Checklist](https://stephanieevergreen.com/wp-content/uploads/2016/10/DataVizChecklist_May2016.pdf) by Ann K. Emery and Stephanie Evergreen
 
 It may also be helpful to read about [what questions to ask when creating charts](https://blog.datawrapper.de/better-charts/).
 
 ## Reminders ##
-The same data set can look very different depending upon which chart you choose. Visit [visualizing distributions](http://www.darkhorseanalytics.com/blog/visualizing-distributions-30) for some examples, but there is additional background on how the [same stats can lead to different graphs](https://www.autodeskresearch.com/publications/samestats). 
+The same data set can look very different depending upon which chart you choose. Visit [visualizing distributions](https://darkhorsevisualization.com/blog/visualizing-distributions-3) for some examples, but there is additional background on how the [same stats can lead to different graphs](https://www.research.autodesk.com/publications/same-stats-different-graphs/). 
 
 Color can be very tricky. This is a complex topic that we could spend an entire session on. There are some [resources on Pinboard](https://pinboard.in/u:tlricherson/t:color), including palettes, tools for evaluating your designs for people with vision issues, and best practices from the research.
 * Did you know that [blue is the last color most cultures develop a word for](https://www.businessinsider.com/what-is-blue-and-how-do-we-see-color-2015-2)?
