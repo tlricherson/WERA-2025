@@ -5,7 +5,7 @@ Many of us were taught to read and write text, but few know the basic rules of c
 **Visual literacy** is the ability to understand, interpret, and evaluate visual messages. **Visualization literacy** is the ability to confidently use a given data visualization to translate data questions into visual queries ([Boy, et al.](https://hal.inria.fr/hal-01027582/document), 2014).
 
 ## Tools ##
-The resources listed below can provide some guidance when selecting a chart and communicating your data. It is critical to remember that design choices are **not** neutral. See the post on [You Say Data, I Say System](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) by Jer Thorp for some background. 
+The resources listed below can provide some guidance when selecting a chart and communicating your data. It is critical to remember that design choices are **not** neutral.  
 
 * There are any number of collections of data viz options. For chart ideas, take a look at the [Data Viz Project](http://datavizproject.com), [The Chartmaker Directory](http://chartmaker.visualisingdata.com/), or [The Data Visualization Catalogue](http://www.datavizcatalogue.com/).
 * [Qualitative Chart Chooser](http://stephanieevergreen.com/wp-content/uploads/2016/11/Qualitative-Chooser-2.0.pdf) by Stephanie Evergreen
