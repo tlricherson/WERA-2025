@@ -16,7 +16,7 @@ All work with data---from the labels we choose to the charts we design---has pot
 
 What are some **tools** we might use to represent intersectional data? Alex Solokov explores some ideas in Beyond the binary: [Improving data visualization for intersectional identities](https://nightingaledvs.com/beyond-the-binary/).
 
-* Check out [Citizen Sensing: A Toolkit](https://making-sense.eu/wp-content/uploads/2018/01/Citizen-Sensing-A-Toolkit.pdf) from Making Sense. "Citizen sensing is often inspired by concern over a critical problem. The first step is to identify the concerns of those in the community and develop an understanding of the issue. This is a collaborative process that informs and guides community action, and helps build a shared position around an issue." You may also be interested in their report on [Co-Desgining Participatory Approaches for Communities](http://publications.jrc.ec.europa.eu/repository/bitstream/JRC110752/jrc110752_makingsense_d42_co-designingparticipatoryapproachesforcommunities.pdf).
+* Check out [Citizen Sensing: A Toolkit](https://making-sense.eu/wp-content/uploads/2018/01/Citizen-Sensing-A-Toolkit.pdf) from Making Sense. "Citizen sensing is often inspired by concern over a critical problem. The first step is to identify the concerns of those in the community and develop an understanding of the issue. This is a collaborative process that informs and guides community action, and helps build a shared position around an issue." You may also be interested in their report on [Co-Designing Participatory Approaches for Communities](http://publications.jrc.ec.europa.eu/repository/bitstream/JRC110752/jrc110752_makingsense_d42_co-designingparticipatoryapproachesforcommunities.pdf).
 
 
 
